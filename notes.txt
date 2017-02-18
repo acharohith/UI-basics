@@ -1,9 +1,7 @@
 Documentation of what I've learnt
 
-abc
-dedf
-
-
-
-
-
+how to clone git repository
+git init
+how to add commits
+how to view commits
+how to push commits to remote repository @github
